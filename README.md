@@ -22,7 +22,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mrsidabukke&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-1.jpeg'> ![55+Hilarious-developer-memes-that-will-leave-you-in-splits-1](https://github.com/mrsidabukke/mrsidabukke/assets/129069950/9ab80868-ed44-4db9-a758-977199afcdbc)
+<!--<img src='https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-1.jpeg'>--> 
+![55+Hilarious-developer-memes-that-will-leave-you-in-splits-1](https://github.com/mrsidabukke/mrsidabukke/assets/129069950/9ab80868-ed44-4db9-a758-977199afcdbc)
 
 
 ---
