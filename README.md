@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mrsidabukke&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-1.jpeg' style="height: 400px;"/> 
+<img src='https://file.forms.app/sitefile/55+Hilarious-developer-memes-that-will-leave-you-in-splits-1.jpeg'> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrsidabukke&icon=0&color=0)](https://visitcount.itsvg.in)
