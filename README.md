@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 - 👋 Hi, I’m @mrsidabukke<br>- 👀 I’m interested in peneration stuff<br>- 🌱 I’m currently learning about cybersecurity
 
 
